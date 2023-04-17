@@ -7,7 +7,7 @@ function App() {
     <div className="wrapper">
       <Header />
       <Main />
-      <div className="post-popup pst-pj">
+      {/* <div className="post-popup pst-pj">
         <div className="post-project">
           <h3>Post a project</h3>
           <div className="post-project-fields">
@@ -356,7 +356,7 @@ function App() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }

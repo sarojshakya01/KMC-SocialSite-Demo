@@ -1,7 +1,7 @@
 import { Component } from "react";
 import Content from "./Content";
-import LeftNav from "./LeftNav";
-import RigtNav from "./RightNav";
+import LeftSide from "./LeftSide";
+import RightSide from "./RightSide";
 
 class Main extends Component {
   render() {
@@ -11,9 +11,9 @@ class Main extends Component {
           <div className="container">
             <div className="main-section-data">
               <div className="row">
-                <LeftNav />
+                <LeftSide />
                 <Content />
-                <RigtNav />
+                <RightSide />
               </div>
             </div>
           </div>
