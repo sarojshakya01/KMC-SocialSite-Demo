@@ -8,8 +8,8 @@ class LeftSide extends Component {
     return (
       <div className="left-nav col-lg-3 col-md-4 pd-left-none no-pd">
         <div className="main-left-sidebar no-margin">
-          <UserData />
-          <Suggestions />
+          <UserData user={this.props.user} />
+          <Suggestions user={this.props.user} />
           <Tags />
         </div>
       </div>

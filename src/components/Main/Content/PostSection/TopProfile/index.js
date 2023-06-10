@@ -18,22 +18,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="-1">
+                    <a href="/#" title="" className="followw" tabIndex="-1">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="-1">
+                    <a href="/#" title="" className="envlp" tabIndex="-1">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="-1">
+                    <a href="/#" title="" className="hire" tabIndex="-1">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="-1">
+                <a href="/#" title="" tabIndex="-1">
                   View Profile
                 </a>
               </div>
@@ -43,22 +43,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="-1">
+                    <a href="/#" title="" className="followw" tabIndex="-1">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="-1">
+                    <a href="/#" title="" className="envlp" tabIndex="-1">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="-1">
+                    <a href="/#" title="" className="hire" tabIndex="-1">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="-1">
+                <a href="/#" title="" tabIndex="-1">
                   View Profile
                 </a>
               </div>
@@ -68,22 +68,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="-1">
+                    <a href="/#" title="" className="followw" tabIndex="-1">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="-1">
+                    <a href="/#" title="" className="envlp" tabIndex="-1">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="-1">
+                    <a href="/#" title="" className="hire" tabIndex="-1">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="-1">
+                <a href="/#" title="" tabIndex="-1">
                   View Profile
                 </a>
               </div>
@@ -93,22 +93,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="-1">
+                    <a href="/#" title="" className="followw" tabIndex="-1">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="-1">
+                    <a href="/#" title="" className="envlp" tabIndex="-1">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="-1">
+                    <a href="/#" title="" className="hire" tabIndex="-1">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="-1">
+                <a href="/#" title="" tabIndex="-1">
                   View Profile
                 </a>
               </div>
@@ -118,22 +118,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="0">
+                    <a href="/#" title="" className="followw" tabIndex="0">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="0">
+                    <a href="/#" title="" className="envlp" tabIndex="0">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="0">
+                    <a href="/#" title="" className="hire" tabIndex="0">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="0">
+                <a href="/#" title="" tabIndex="0">
                   View Profile
                 </a>
               </div>
@@ -143,22 +143,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="0">
+                    <a href="/#" title="" className="followw" tabIndex="0">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="0">
+                    <a href="/#" title="" className="envlp" tabIndex="0">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="0">
+                    <a href="/#" title="" className="hire" tabIndex="0">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="0">
+                <a href="/#" title="" tabIndex="0">
                   View Profile
                 </a>
               </div>
@@ -168,22 +168,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="0">
+                    <a href="/#" title="" className="followw" tabIndex="0">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="0">
+                    <a href="/#" title="" className="envlp" tabIndex="0">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="0">
+                    <a href="/#" title="" className="hire" tabIndex="0">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="0">
+                <a href="/#" title="" tabIndex="0">
                   View Profile
                 </a>
               </div>
@@ -193,22 +193,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="-1">
+                    <a href="/#" title="" className="followw" tabIndex="-1">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="-1">
+                    <a href="/#" title="" className="envlp" tabIndex="-1">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="-1">
+                    <a href="/#" title="" className="hire" tabIndex="-1">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="-1">
+                <a href="/#" title="" tabIndex="-1">
                   View Profile
                 </a>
               </div>
@@ -218,22 +218,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="-1">
+                    <a href="/#" title="" className="followw" tabIndex="-1">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="-1">
+                    <a href="/#" title="" className="envlp" tabIndex="-1">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="-1">
+                    <a href="/#" title="" className="hire" tabIndex="-1">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="-1">
+                <a href="/#" title="" tabIndex="-1">
                   View Profile
                 </a>
               </div>
@@ -243,22 +243,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="-1">
+                    <a href="/#" title="" className="followw" tabIndex="-1">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="-1">
+                    <a href="/#" title="" className="envlp" tabIndex="-1">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="-1">
+                    <a href="/#" title="" className="hire" tabIndex="-1">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="-1">
+                <a href="/#" title="" tabIndex="-1">
                   View Profile
                 </a>
               </div>
@@ -268,22 +268,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="-1">
+                    <a href="/#" title="" className="followw" tabIndex="-1">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="-1">
+                    <a href="/#" title="" className="envlp" tabIndex="-1">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="-1">
+                    <a href="/#" title="" className="hire" tabIndex="-1">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="-1">
+                <a href="/#" title="" tabIndex="-1">
                   View Profile
                 </a>
               </div>
@@ -293,22 +293,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="-1">
+                    <a href="/#" title="" className="followw" tabIndex="-1">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="-1">
+                    <a href="/#" title="" className="envlp" tabIndex="-1">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="-1">
+                    <a href="/#" title="" className="hire" tabIndex="-1">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="-1">
+                <a href="/#" title="" tabIndex="-1">
                   View Profile
                 </a>
               </div>
@@ -318,22 +318,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="-1">
+                    <a href="/#" title="" className="followw" tabIndex="-1">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="-1">
+                    <a href="/#" title="" className="envlp" tabIndex="-1">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="-1">
+                    <a href="/#" title="" className="hire" tabIndex="-1">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="-1">
+                <a href="/#" title="" tabIndex="-1">
                   View Profile
                 </a>
               </div>
@@ -343,22 +343,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="-1">
+                    <a href="/#" title="" className="followw" tabIndex="-1">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="-1">
+                    <a href="/#" title="" className="envlp" tabIndex="-1">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="-1">
+                    <a href="/#" title="" className="hire" tabIndex="-1">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="-1">
+                <a href="/#" title="" tabIndex="-1">
                   View Profile
                 </a>
               </div>
@@ -368,22 +368,22 @@ class TopProfile extends Component {
                 <span>Graphic Designer</span>
                 <ul>
                   <li>
-                    <a href="./index.html#" title="" className="followw" tabIndex="-1">
+                    <a href="/#" title="" className="followw" tabIndex="-1">
                       Follow
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="envlp" tabIndex="-1">
+                    <a href="/#" title="" className="envlp" tabIndex="-1">
                       <img src="./images/envelop.png" alt="" />
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="" className="hire" tabIndex="-1">
+                    <a href="/#" title="" className="hire" tabIndex="-1">
                       hire
                     </a>
                   </li>
                 </ul>
-                <a href="./index.html#" title="" tabIndex="-1">
+                <a href="/#" title="" tabIndex="-1">
                   View Profile
                 </a>
               </div>

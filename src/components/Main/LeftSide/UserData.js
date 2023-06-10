@@ -7,25 +7,25 @@ class UserData extends Component {
         <div className="user-profile">
           <div className="username-dt">
             <div className="usr-pic">
-              <img src="./images/saroj-pic.jpeg" alt="" />
+              <img src={"./images/" + this.props.user?.username + ".png"} alt="" />
             </div>
           </div>
           <div className="user-specs">
-            <h3>Saroj Shakya</h3>
-            <span>Research Head</span>
+            <h3>{this.props.user?.fullname}</h3>
+            <span>{this.props.user?.title}</span>
           </div>
         </div>
         <ul className="user-fw-status">
           <li>
             <h4>Following</h4>
-            <span>34</span>
+            <span>{this.props.user?.followings?.length}</span>
           </li>
           <li>
             <h4>Followers</h4>
-            <span>155</span>
+            <span>{this.props.user?.followers?.length}</span>
           </li>
           <li>
-            <a href="./my-profile.html" title="">
+            <a href={"/profile/" + this.props.user?.username} title="">
               View Profile
             </a>
           </li>

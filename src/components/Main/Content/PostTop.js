@@ -5,25 +5,20 @@ class PostTop extends Component {
     return (
       <div className="post-topbar">
         <div className="user-picy">
-          <img src="./images/saroj-pic.jpeg" alt="" />
+          <img src={"./images/" + this.props.user?.username + ".png"} alt="" />
         </div>
         <div className="post-st">
           <ul>
-            <li>
-              <a className="post_project" href="./index.html#" title="">
+            {/* <li>
+              <a className="post_project" href="/#" title="">
                 Post a Project
               </a>
-            </li>
+            </li> */}
             <li>
-              <a className="post-jb active" href="./index.html#" title="">
+              <a className="post-jb active" href="/#" title="">
                 Post a Job
               </a>
             </li>
-            {/* <li>
-              <a className="test active" href="./index.html#" title="">
-                Test
-              </a>
-            </li> */}
           </ul>
         </div>
       </div>

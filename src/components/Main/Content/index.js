@@ -7,7 +7,7 @@ class Content extends Component {
     return (
       <div className="content col-lg-6 col-md-8 no-pd">
         <div className="main-ws-sec">
-          <PostTop />
+          <PostTop user={this.props.user} />
           <PostSection />
         </div>
       </div>

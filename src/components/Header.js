@@ -7,7 +7,7 @@ class Header extends Component {
         <div className="container">
           <div className="header-data">
             <div className="logo">
-              <a href="./index.html" title="">
+              <a href="/#" title="">
                 <img src="./images/logo.png" alt="" />
               </a>
             </div>
@@ -19,10 +19,10 @@ class Header extends Component {
                 </button>
               </form>
             </div>
-            <nav>
+            {/* <nav>
               <ul>
                 <li>
-                  <a href="./index.html" title="">
+                  <a href="/#" title="">
                     <span>
                       <img src="./images/icon1.png" alt="" />
                     </span>
@@ -86,7 +86,7 @@ class Header extends Component {
                   </a>
                 </li>
                 <li>
-                  <a href="./index.html#" title="" className="not-box-openm">
+                  <a href="/#" title="" className="not-box-openm">
                     <span>
                       <img src="./images/icon6.png" alt="" />
                     </span>
@@ -95,7 +95,7 @@ class Header extends Component {
                   <div className="notification-box msg" id="message">
                     <div className="nt-title">
                       <h4>Setting</h4>
-                      <a href="./index.html#" title="">
+                      <a href="/#" title="">
                         Clear all
                       </a>
                     </div>
@@ -151,7 +151,7 @@ class Header extends Component {
                   </div>
                 </li>
                 <li>
-                  <a href="./index.html#" title="" className="not-box-open">
+                  <a href="/#" title="" className="not-box-open">
                     <span>
                       <img src="./images/icon7.png" alt="" />
                     </span>
@@ -160,7 +160,7 @@ class Header extends Component {
                   <div className="notification-box noti" id="notification">
                     <div className="nt-title">
                       <h4>Setting</h4>
-                      <a href="./index.html#" title="">
+                      <a href="/#" title="">
                         Clear all
                       </a>
                     </div>
@@ -171,7 +171,7 @@ class Header extends Component {
                         </div>
                         <div className="notification-info">
                           <h3>
-                            <a href="./index.html#" title="">
+                            <a href="/#" title="">
                               Jassica William
                             </a>{" "}
                             Comment on your project.
@@ -185,7 +185,7 @@ class Header extends Component {
                         </div>
                         <div className="notification-info">
                           <h3>
-                            <a href="./index.html#" title="">
+                            <a href="/#" title="">
                               Jassica William
                             </a>{" "}
                             Comment on your project.
@@ -199,7 +199,7 @@ class Header extends Component {
                         </div>
                         <div className="notification-info">
                           <h3>
-                            <a href="./index.html#" title="">
+                            <a href="/#" title="">
                               Jassica William
                             </a>{" "}
                             Comment on your project.
@@ -213,7 +213,7 @@ class Header extends Component {
                         </div>
                         <div className="notification-info">
                           <h3>
-                            <a href="./index.html#" title="">
+                            <a href="/#" title="">
                               Jassica William
                             </a>{" "}
                             Comment on your project.
@@ -222,7 +222,7 @@ class Header extends Component {
                         </div>
                       </div>
                       <div className="view-all-nots">
-                        <a href="./index.html#" title="">
+                        <a href="/#" title="">
                           View All Notification
                         </a>
                       </div>
@@ -230,16 +230,16 @@ class Header extends Component {
                   </div>
                 </li>
               </ul>
-            </nav>
+            </nav> */}
             <div className="menu-btn">
-              <a href="./index.html#" title="">
+              <a href="/#" title="">
                 <i className="fa fa-bars"></i>
               </a>
             </div>
             <div className="user-account">
               <div className="user-info">
                 <img src="./images/user.jpeg" alt="" />
-                <a href="./index.html#" title="">
+                <a href="/#" title="">
                   Saroj
                 </a>
                 <i className="la la-sort-down"></i>
@@ -281,17 +281,17 @@ class Header extends Component {
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="">
+                    <a href="/#" title="">
                       Privacy
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="">
+                    <a href="/#" title="">
                       Faqs
                     </a>
                   </li>
                   <li>
-                    <a href="./index.html#" title="">
+                    <a href="/#" title="">
                       Terms &amp; Conditions
                     </a>
                   </li>

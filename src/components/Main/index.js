@@ -11,8 +11,8 @@ class Main extends Component {
           <div className="container">
             <div className="main-section-data">
               <div className="row">
-                <LeftSide />
-                <Content />
+                <LeftSide user={this.props.user} />
+                <Content user={this.props.user} />
                 <RightSide />
               </div>
             </div>

@@ -10,7 +10,7 @@ class Suggestions extends Component {
         <div className="suggestions-list">
           <Suggestion />
           <div className="view-more">
-            <a href="./index.html#" title="">
+            <a href="/#" title="">
               View More
             </a>
           </div>

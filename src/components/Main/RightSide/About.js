@@ -13,7 +13,7 @@ class About extends Component {
               Sign up
             </a>
           </h3>
-          <a href="./index.html#" title="">
+          <a href="/#" title="">
             Learn More
           </a>
         </div>
