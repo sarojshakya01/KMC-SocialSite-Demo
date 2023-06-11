@@ -65,10 +65,10 @@ $(window).on(
 
     //  ============= COVER GAP FUNCTION =========
 
-    var gap = $(".container").offset().left;
-    $(".cover-sec > a, .chatbox-list").css({
-      right: gap,
-    });
+    // var gap = $(".container").offset().left;
+    // $(".cover-sec > a, .chatbox-list").css({
+    //   right: gap,
+    // });
 
     //  ============= OVERVIEW EDIT FUNCTION =========
 

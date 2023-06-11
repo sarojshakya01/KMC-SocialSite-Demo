@@ -1,4 +1,10 @@
 const Tags = () => {
+  const handleLogout = (event) => {
+    event.preventDefault();
+    window.sessionStorage.clear();
+    window.location.href = "/";
+  };
+
   return (
     <div className="tags-sec full-width">
       <ul>
@@ -40,6 +46,11 @@ const Tags = () => {
         <li>
           <a href="/#" title="">
             Copyright Policy
+          </a>
+        </li>
+        <li>
+          <a href="/#" title="" onClick={handleLogout}>
+            Logout
           </a>
         </li>
       </ul>

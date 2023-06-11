@@ -2,6 +2,7 @@ import { Component } from "react";
 import { userAPI } from "./apis";
 import "./App.css";
 import Header from "./components/Header";
+import Login from "./components/Login";
 import Main from "./components/Main";
 
 class App extends Component {
@@ -31,13 +32,17 @@ class App extends Component {
   }
 
   render() {
+    if (!window.sessionStorage.getItem("loggedInUser")) {
+      return <Login />;
+    }
     if (!Object.keys(this.state.loggedInUser).length) {
-      return <></>
+      return <></>;
     }
     return (
       <div className="wrapper">
         <Header />
         <Main user={this.state.loggedInUser} />
+
         {/* <div className="post-popup pst-pj">
           <div className="post-project">
             <h3>Post a project</h3>

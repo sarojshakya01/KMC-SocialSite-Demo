@@ -297,7 +297,7 @@ class Header extends Component {
                   </li>
                 </ul>
                 <h3 className="tc">
-                  <a href="./sign-in.html" title="">
+                  <a href="/#" title="">
                     Logout
                   </a>
                 </h3>

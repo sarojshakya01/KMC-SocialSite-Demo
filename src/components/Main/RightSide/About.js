@@ -5,11 +5,11 @@ class About extends Component {
     return (
       <div className="widget widget-about">
         <img src="./images/logo.png" alt="" />
-        <h3>Track Time on Workwise</h3>
+        <h3>Track Time on KMC</h3>
         <span>Pay only for the Hours worked</span>
         <div className="sign_link">
           <h3>
-            <a href="./sign-in.html" title="">
+            <a href="/#" title="">
               Sign up
             </a>
           </h3>
