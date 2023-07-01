@@ -1,4 +1,5 @@
 import { Component } from "react";
+import Comment from "./Comment";
 
 class Post extends Component {
   calPostTimeAgo(post_date) {
@@ -132,6 +133,7 @@ class Post extends Component {
             <i className="fas fa-eye"></i>Views <>{viewed_by.length}</>
           </a>
         </div>
+        <Comment/>
       </div>
     );
   }

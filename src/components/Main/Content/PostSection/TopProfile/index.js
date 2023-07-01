@@ -3,7 +3,7 @@ import { Component } from "react";
 class TopProfile extends Component {
   render() {
     return (
-      <div className="top-profiles" style={{ display: "none" }}>
+      <div className="top-profiles">
         <div className="pf-hd">
           <h3>Top Profiles</h3>
           <i className="la la-ellipsis-v"></i>
